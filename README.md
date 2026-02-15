@@ -14,4 +14,3 @@ A console-based Pac-Man inspired arcade game developed as a first-term Computer 
 
 ## Technologies Used
 - C++
-- Object-Oriented Programming
